@@ -90,9 +90,9 @@ This opens the CockroachDB interactive SQL shell.
 
 ### 📚 Repository Contents
 File	Description
-Lab.ipynb	Jupyter Notebook with all CockroachDB queries
-requirements.txt	List of required Python libraries
-README.md	This documentation
+- `Lab.ipynb`	Jupyter Notebook with all CockroachDB queries
+- `requirements.txt`	List of required Python libraries
+- `README.md`	This documentation
 
 ### 📌 Notes
 ⚠ This setup is for educational purposes only. In production, always run CockroachDB with authentication and proper security settings.
