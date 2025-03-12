@@ -96,7 +96,7 @@ README.md	This documentation
 ### 📌 Notes
 ⚠ This setup is for educational purposes only. In production, always run CockroachDB with authentication and proper security settings.
 
-- For official CockroachDB documentation, visit: 🔗 CockroachDB Docs
+- For official CockroachDB documentation, visit: 🔗 [CockroachDB Docs](https://www.cockroachlabs.com/docs/cockroachcloud/learn-cockroachdb-sql)
 
 ### 🌟 Contribute & Feedback
 Feel free to fork this repo, experiment, and suggest improvements!
