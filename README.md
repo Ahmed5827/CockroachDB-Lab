@@ -12,6 +12,7 @@ We will cover:
 - System monitoring queries
 - Time-travel queries (AS OF SYSTEM TIME)
 - Performance analysis using CockroachDB internal tables
+- Multi-Node CockroachDB cluster
 
 ### 🛠️ Prerequisites
 Before running this lab, ensure you have the following installed:
